@@ -11,6 +11,7 @@ int main() {
 	float kwota_podatku = kwota_brutto * 0.19;
 	cout << "Kwota podatku wynosi:" << kwota_podatku <<endl;
 	cout << "Kwota netto wynosi:"<< kwota_brutto - kwota_podatku << endl;
+	cout << "Wersja 2.0" << endl;
 	
 	
 	return 0;
